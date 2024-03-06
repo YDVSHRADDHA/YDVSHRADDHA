@@ -24,15 +24,11 @@ She is here with Enthusiastic and detail-oriented aspiring Computer professional
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YDVSHRADDHA&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YDVSHRADDHA&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+ 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YDVSHRADDHA&icon=3&color=3)](https://visitcount.itsvg.in)
